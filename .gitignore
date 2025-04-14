@@ -1,0 +1,13 @@
+# Excluir arquivos de dados
+*.vcf
+*.bed
+*.csv
+*.tsv
+
+# Excluir arquivos temporários
+*.log
+*.tmp
+
+# Excluir arquivos do R
+.RData
+.Rhistory
