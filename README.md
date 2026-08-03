@@ -226,4 +226,5 @@ GitHub: [@ticatavares](https://github.com/ticatavares)
 
 ## Licence
 
-Add a repository software licence (for example, a `LICENSE` file) before the archival release. The software licence applies only to the code and does not override the licences or terms of use of HGDP, 1KGP, ClinVar, COSMIC, or other source datasets.
+The source code in this repository is available under the MIT License. See the LICENSE file for details.
+This license applies only to the original source code provided in this repository. Source data and database-derived files are not covered by the MIT License and remain subject to the respective terms of use and licensing conditions of HGDP, the 1000 Genomes Project, ClinVar, COSMIC, and other third-party resources.
