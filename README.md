@@ -203,17 +203,19 @@ bash check_hotspot_overlap.sh
 
 | Resource | Role in the study | Access |
 |---|---|---|
-| HGDP | Primary population discovery panel | Bergstrom et al. (2020); exact input accession/link: `<HGDP_INPUT_URL>` |
+| HGDP | Primary population discovery panel | Bergström et al. (2020); GRCh38 WGS release `hgdp_wgs.20190516`: https://ngs.sanger.ac.uk/production/hgdp/hgdp_wgs.20190516/ |
 | High-coverage 1KGP | Independent population replication panel | The download URL is defined in `download_1kgp.sh` |
 | ClinVar | Benign/likely benign and pathogenic/likely pathogenic germline SNVs in MANE-defined CDS | Release used: `<CLINVAR_RELEASE>`; source: <https://www.ncbi.nlm.nih.gov/clinvar/> |
 | COSMIC | Somatic cancer SNVs | Release used: `<COSMIC_RELEASE>`; registered access: <https://cancer.sanger.ac.uk/cosmic/> |
-| Zenodo | Analysis-ready files that may legally be redistributed | `<ZENODO_RECORD_URL>` |
+| Zenodo | Analysis-ready files that may legally be redistributed | **CDS** `<https://doi.org/10.5281/zenodo.21779127>` |
+| Zenodo | Analysis-ready files that may legally be redistributed | **WG** `<https://doi.org/10.5281/zenodo.21779579>` |
 
 ## Citation
 
 If you use this workflow, please cite:
 
 > `<FULL MANUSCRIPT CITATION OR BIORXIV DOI>`
+
 
 Please also cite the original databases and software tools used in the corresponding analysis.
 
