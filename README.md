@@ -2,8 +2,6 @@
 
 This repository contains scripts used to preprocess population variation data and to analyze exact-coordinate recurrence between germline single-nucleotide variants (SNVs) and somatic cancer mutations. The workflow supports the analyses described in the associated manuscript, including population-frequency classification, linkage-disequilibrium (LD) pruning, nucleotide-substitution concordance, chromosome-constrained permutation testing, and overlap with canonical mutational contexts.
 
-> **Before archiving this repository:** replace every `<...>` placeholder below with the final manuscript title, database releases, and Zenodo DOI.
-
 ## Study design and reproducibility scope
 
 The Human Genome Diversity Project (HGDP) was the primary population reference panel, and the high-coverage 1000 Genomes Project (1KGP) was used as an independent replication panel. Both panels were analyzed using the same overall framework and the same common/rare frequency thresholds:
