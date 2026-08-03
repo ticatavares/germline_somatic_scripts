@@ -207,8 +207,8 @@ bash check_hotspot_overlap.sh
 | High-coverage 1KGP | Independent population replication panel | The download URL is defined in `download_1kgp.sh` |
 | ClinVar | Benign/likely benign and pathogenic/likely pathogenic germline SNVs in MANE-defined CDS | Release used: `<CLINVAR_RELEASE>`; source: <https://www.ncbi.nlm.nih.gov/clinvar/> |
 | COSMIC | Somatic cancer SNVs | Release used: `<COSMIC_RELEASE>`; registered access: <https://cancer.sanger.ac.uk/cosmic/> |
-| Zenodo | Analysis-ready files that may legally be redistributed | **CDS** `<https://doi.org/10.5281/zenodo.21779127>` |
-| Zenodo | Analysis-ready files that may legally be redistributed | **WG** `<https://doi.org/10.5281/zenodo.21779579>` |
+| Zenodo | Analysis-ready files that may legally be redistributed | **CDS** <https://doi.org/10.5281/zenodo.21779127> |
+| Zenodo | Analysis-ready files that may legally be redistributed | **WG** <https://doi.org/10.5281/zenodo.21779579> |
 
 ## Citation
 
